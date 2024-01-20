@@ -6,9 +6,6 @@ Lead Auditors:
 
 # Table of Contents
 
-<details>
-<summary>See table</summary>
-
 - [PasswordStore Audit Report](#passwordstore-audit-report)
 - [Table of Contents](#table-of-contents)
 - [Disclaimer](#disclaimer)
@@ -20,8 +17,6 @@ Lead Auditors:
 - [Executive Summary](#executive-summary)
   - [Issues found](#issues-found)
 - [Findings](#findings)
-
-</details>
 
 # Disclaimer
 
