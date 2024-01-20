@@ -6,9 +6,6 @@ Lead Auditors:
 
 # Table of Contents
 
-<details>
-<summary>See table</summary>
-
 - [@todo Audit Report](#todo-audit-report)
 - [Table of Contents](#table-of-contents)
 - [Disclaimer](#disclaimer)
@@ -25,8 +22,6 @@ Lead Auditors:
 - [Low](#low)
 - [Informational](#informational)
 - [Gas](#gas)
-
-</details>
 
 # Disclaimer
 
